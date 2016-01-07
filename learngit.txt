@@ -5,3 +5,5 @@ Terry lei is coming here to study git.
 He is a new-guy!
 
 creating a new branch is quick
+
+switch to dev branch
