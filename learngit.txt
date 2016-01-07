@@ -6,4 +6,4 @@ He is a new-guy!
 
 creating a new branch is quick
 
-switch to dev branch
+switch to dev branch and simple.
