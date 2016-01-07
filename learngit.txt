@@ -3,3 +3,5 @@ Git is free software.
 
 Terry lei is coming here to study git.
 He is a new-guy!
+
+creating a new branch is quick
